@@ -30,7 +30,7 @@ html,body{
 .part2{
     width: 550px;
     height: 100%;
-    background-image: url(image/ppna.jpeg);
+    background-image: url(/ppna.jpeg);
     background-position: center;
 }.part3{
     width: 100px;
@@ -59,7 +59,7 @@ html,body{
     width: 180px;
     height: 250px;
     position: absolute;
-    background-image: url(image/BigImgs.png);
+    background-image: url(/BigImgs.png);
     background-position: center;
     background-size: cover;
     right: 50px;
